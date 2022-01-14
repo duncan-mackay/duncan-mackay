@@ -6,5 +6,5 @@ I’m looking for collaborators on the puttr project - webdevs, publicists, jour
 
 You can find me on https://linkedin.com/in/strangesheep - at least for now ;)
 You can email me directly at duncan@puttr.uk
-By the time you're reading this, you can probably connect with me on puttr.uk, too.
+By the time you're reading this, you can probably connect with me on the app, https://puttr.uk, too.
 
