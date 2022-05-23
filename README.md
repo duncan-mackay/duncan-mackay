@@ -1,10 +1,12 @@
 I’m @duncan-mackay, founder and director of PlusPlus Consulting (UK), and founder of the puttr.uk project.
 My interests include science and tech, freedom and free-speech, and empowering individuals to do more.
-I’m currently learning all about stackblitz, evaluating it as a potential environment for developing puttr.
+Unfortunately, I have been forced to requesting the striking-off of PlusPlus Consulting, as it is insolvent,
+having been unable to land any contract this year.
+My attention is therfore solely on the puttr.uk project now.
 
 I’m looking for collaborators on the puttr project - webdevs, publicists, journos.
 
-You can find me on https://linkedin.com/in/strangesheep - at least for now ;)
+You can out about some of my history on https://linkedin.com/in/puttr
 You can email me directly at duncan@puttr.uk
-By the time you're reading this, you can probably connect with me on the app, https://puttr.uk, too.
+There is now a stub page, describing the project at https://puttr.uk
 
