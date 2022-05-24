@@ -1,4 +1,4 @@
-I’m @duncan-mackay, founder and director of PlusPlus Consulting (UK), and founder of the puttr.uk project.
+I’m @duncan-mackay, founder of the puttr.uk project.
 My interests include science and tech, freedom and free-speech, and empowering individuals to do more.
 Unfortunately, I have recently been forced to close PlusPlus Consulting. It is insolvent.
 
